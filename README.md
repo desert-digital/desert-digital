@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @desert-digital (Ian McCallum)
 - 👀 I’m interested in ... building full-stack javascript applications
-- 🌱 I’m currently learning ... amplify (aws), sagemaker (aws), app engine (gcP
+- 🌱 I’m currently learning ... amplify (aws), sagemaker (aws), app engine (gcp)
 - 💞️ I’m looking to collaborate on ... google cloud projects
 - 📫 How to reach me ... desert dot digital dot us at gmail dot com
 
